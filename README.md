@@ -1,4 +1,4 @@
-<img  alt="Coding"  src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVhM2IwMTVkOTQ5YWYxM2YzYmExYmZiNTBjZGIwZDMwNGMzYTYwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif](https://www.protera.com/wp-content/uploads/2020/05/cloud-tech.png)">
+<img  alt="Coding"  src="https://www.protera.com/wp-content/uploads/2020/05/cloud-tech.png">
 <h1 align="center">Hi 👋, I'm Cao Nhat Thien</h1>
 <h3 align="center">"Empowering Architects: GitHub for Seamless Software Engineering"</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVhM2IwMTVkOTQ5YWYxM2YzYmExYmZiNTBjZGIwZDMwNGMzYTYwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
