@@ -1,7 +1,7 @@
 <img  alt="Coding"  src="[[https://www.protera.com/wp-content/uploads/2020/05/cloud-tech.png](https://wallpapers.com/images/hd/coding-programs-and-commands-0yp6j8gwtjfzjbt4.webp)]">
 <h1 align="center">Hi 👋, I'm Cao Nhat Thien</h1>
-<h3 align="center">"Empowering Architects: GitHub for Seamless Software Engineering"</h3>
-<img align="right" alt="Coding" width="400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVhM2IwMTVkOTQ5YWYxM2YzYmExYmZiNTBjZGIwZDMwNGMzYTYwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif](https://wallpapers.com/images/hd/coding-programs-and-commands-0yp6j8gwtjfzjbt4.webp)">
+<h3 align="center">"Empowering Architects: GitHub for Seamless Software Engineering"</h3>>
+<img align="right" alt="Coding" width="400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVhM2IwMTVkOTQ5YWYxM2YzYmExYmZiNTBjZGIwZDMwNGMzYTYwMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1wolfalone1&label=Profile%20views&color=0e75b6&style=flat" alt="1wolfalone1" /> </p>
 
 - 🔭 I’m currently studying at **FPT University.**
